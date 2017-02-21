@@ -1,50 +1,50 @@
-New Jersey
-New York
-Pennsylvania
-Maryland
-Delaware
-Connecticut
-Massachusetts
-Rhode Island
-New Hampshire
-Vermont
-Maine
-Virginia
-North Carolina
-South Carolina
-Georgia
-Florida
 Alabama
-Mississippi
-Louisianna
-Texas
-Oklahoma
-Arkansas
-Missouri
-Kentucky
-Tennessee
-Ohio
-Iowa
-Indiana
-Michigan
-Illinois
-Wisconsin
-Minnesota
-Nebraska
-Wyoming
-Utah
-Colorado
-New Mexico
-Arizona
-Kansas
-North Dakota
-South Dakota
-Montana
-Idaho
-Oregon
-Washington
-California
-Nevada
-Hawaii
 Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisianna
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
 West Virgina
+Wisconsin
+Wyoming
