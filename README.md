@@ -1,2 +1,2 @@
 # config-files
-# to build my vim config file and to clone to any other system if needed.
+# use the repro to save config files for i3, ranger, vim, and zsh.
